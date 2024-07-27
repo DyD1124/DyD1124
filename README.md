@@ -1,4 +1,4 @@
-## Hola Mundo, Soy Daniel Garay 👋🏼
+## Hola Mundo, Soy Daniel Garay <img src ="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIxMDY2MTAsIm5iZiI6MTcyMjEwNjMxMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI3VDE4NTE1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNiMmQ4MDc2MjE4ZDM1YzdhYTNhZTM1YzMwNGZhYjBiYWFmYjY1MTQzZjRhYzVmOTQ0YjRkNzk1MTc1ZGJmMTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rpXHjyq5YACpsJgiRXIu0ibjbiOQlxSjtGvl-5TFC6Q" height="40px"/>
 
 <img src="https://i.imgur.com/DHD3omT.gif" align="right" height="250px"/>
 
@@ -40,7 +40,8 @@ Soy ingeniero de software especializado en el desarrollo backend de aplicaciones
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-***
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 ### Contactame 📞
 [![Linkedin](https://img.shields.io/badge/-Daniel%20Garay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-garay1/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-ddgp2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
